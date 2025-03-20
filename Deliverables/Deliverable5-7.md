@@ -8,7 +8,7 @@ Danish Rizwan
 # Sprint 3 - Review and Retrospective
 Sprint Leads Scrum master: Hafsah Sultana Product owner: Danish Rizwan
 ### Sprint Review
-
+In this sprint we continued our work on from the previous sprints. We mainly focused on integrating the carbon footprint calculator witht he rest of the website. Other features and pages such as the forum and about sections of the website were completed. We maintained frequest contact during this period, helping us complete out tasks and track progress
 #### **Sprint Goal and Demoed Features**
 
 Sprint Goal: The goal for Sprint 3 is to improve all our pages for the frontend and continuing implementation for the main carbon footprint tracker. Additionally, we aim to address communication challenges from the previous sprint by refining our collaboration methods, ensuring smoother task dependencies and better version control management.
@@ -27,39 +27,27 @@ Sprint Goal: The goal for Sprint 3 is to improve all our pages for the frontend 
 
 ### New/Revised Tasks
 
-**Instructions:** Add any new tasks coming from the review that wasn't previously in the backlog. Below is an example. Remove the example and add yours.
-
-####  Epic-User Story ID (Example: User registration - 001)
-
 | **Task ID** | **Description** |
 |-------------|-----------------|
-| 001-3 UI | The registration form for allotment users in React should show a drop-down list for preferred food items.
+| | |
 
 ### Sprint Retrospective
 
 #### **Discussion**
 
-**Instructions:** Below is a simple retrospective template. You 
-can use others referenced from your Deliverables sheet. (Remove
-instruction before submission.)
-
 | What went well | What could have gone better | What will we do differently?|
 |----------------|-----------------------------|-------------|
-|*               | *                           | *           |
+|* There was good understanding amongst the teama and most things went smoothly    | * More communication and testing the features             | *           |
 
 
 
-# Sprint [x] Plan
-
-**Instructions:** Add your sprint goal, sprint leads, and fill the spring backlog. (Remove the instructions before submission.)
+# Sprint 4 Plan
 
 ### Sprint Goal
-
+The goal for this sprint is to complete any remaining features and integrate everyones work into the website
 ### Sprint Leads
 
 ### Sprint Backlog
-
-**Instructions:** Fill in your sprint backlog for each user story you have decided to implement in your sprint. Below is an example for how User Registration-001 is modified in the new Sprint backlog.  Remove the example, and fill it with user stories from project backlog (that serves the sprint goal), adding more sub-headings and tables as necessary. (Remove the instructions before submission.)
 
 1.  Epic-User Story ID (Example: User registration - 001)
  **Acceptance criteria:**
