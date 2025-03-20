@@ -11,7 +11,7 @@ Sprint Leads Scrum master: Hafsah Sultana Product owner: Danish Rizwan
 
 #### **Sprint Goal and Demoed Features**
 
-Sprint Goal: The goal for Sprint 3 is to improve all our pages for the frontend and continuing implementation for the main carbon footprint tracker. Additionally, we aim to address communication challenges from the previous sprint by refining our collaboration methods, ensuring smoother task dependencies and better version control management. ***
+Sprint Goal: The goal for Sprint 3 is to improve all our pages for the frontend and continuing implementation for the main carbon footprint tracker. Additionally, we aim to address communication challenges from the previous sprint by refining our collaboration methods, ensuring smoother task dependencies and better version control management.
 
 | Demoed Feature | Feedback   |
 |----------------|------------|
@@ -19,18 +19,11 @@ Sprint Goal: The goal for Sprint 3 is to improve all our pages for the frontend 
 
 #### **Completed Tasks**
 
-**Instructions:** Document completed tasks for each item in your sprint backlog as shown below, i.e., each user story you have decided to implement in your sprint. (Remove example/instruction before you submit.)
-
-
-####  Epic-User Story ID (Example: User registration - 001)
- **Acceptance criteria:**
- A new allotment user can save username, password, preferences for food items and preferred allotment locations.
-
 | **Task ID** | **Description** | **Assigned To** | **Done?**| 
 | ------------| ----------------| ----------------| -----------|
-|001-1 Database| Implement data model and data repository for allotment users| Seona | Yes |
-|001-2 Backend | Implement API for registering allotment users|Seona | Yes |
-|001-3 Frontend| Create a registration form for allotment users in React | Clemence| No |
+|003-1 Backend| Add the login system for the Forum | Danish | Yes |
+| | | |  |
+| |  | |  |
 
 ### New/Revised Tasks
 
