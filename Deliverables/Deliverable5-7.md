@@ -1,17 +1,17 @@
-# **Project Progress [Number]**
+# **Project Progress 3**
 
 ### Group number
-
+50
 ### Contributors
+Danish Rizwan
 
-
-# Sprint [Number] - Review and Retrospective
-
+# Sprint 3 - Review and Retrospective
+Sprint Leads Scrum master: Hafsah Sultana Product owner: Danish Rizwan
 ### Sprint Review
 
 #### **Sprint Goal and Demoed Features**
 
-Sprint Goal: ***
+Sprint Goal: The goal for Sprint 3 is to improve all our pages for the frontend and continuing implementation for the main carbon footprint tracker. Additionally, we aim to address communication challenges from the previous sprint by refining our collaboration methods, ensuring smoother task dependencies and better version control management. ***
 
 | Demoed Feature | Feedback   |
 |----------------|------------|
